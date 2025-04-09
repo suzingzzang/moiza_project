@@ -9,6 +9,8 @@
 -IDE : Eclipse IDE 2022-12
 
 -DATABASE : Mysql Workbench 8.0.13
+![image](https://github.com/user-attachments/assets/ea98b09f-2035-417c-98ee-1525e08d922d)
+
 
 -JDK : amazon corretto 11
 
