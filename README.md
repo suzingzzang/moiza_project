@@ -1,6 +1,16 @@
+![image](https://github.com/user-attachments/assets/0885b564-5d31-41f8-bd6b-210ad4fcccc0)
+
 작업 기간 : 2023.02.10~2023.02.24
 
 작업 인원 : 4명
+. 역할 (BE 30% / FE 50% / DB 100%)
+
+---
+- 초기 서버설정
+- db설계
+- session과 관련된 로그인
+- 마이페이지 등 개인 정보가 담긴 csrf 토큰 사용 페이지 작업
+- open api를 이용한 현위치 기반 모임 제공 페이지
 
 작업 tool & skill :
 
